@@ -1,6 +1,8 @@
 h1{
     color: #111111;
     background-color: aqua;
+    text-align: center;
+    border-radius: 10px;
 }
 
 body{
@@ -11,5 +13,8 @@ body{
 a{
     background-color: #666666;
     color: aqua;
-
+    display: block;
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
 }
